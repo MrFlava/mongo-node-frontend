@@ -1,6 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
 
+// TODO:
+// Crete iniial commit;
+// Find template;
+// Write frontend for the endpoints;
+
 function App() {
   return (
     <div className="App">
