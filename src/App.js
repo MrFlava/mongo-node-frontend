@@ -2,8 +2,6 @@ import logo from './logo.svg';
 import './App.css';
 
 // TODO:
-// Crete iniial commit;
-// Find template;
 // Write frontend for the endpoints;
 
 function App() {
@@ -28,3 +26,8 @@ function App() {
 }
 
 export default App;
+
+
+// Templates:
+// login/register  - https://codepen.io/codyhouse/pen/QWpVKB
+// twitter clone, but i need to change some stuff in here - https://somanath-goudar.github.io/html-css-projects/twitter-clone/
